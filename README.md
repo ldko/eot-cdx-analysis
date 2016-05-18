@@ -27,9 +27,9 @@ The CDX format in these data files is a space delimited file with the following 
 * MIME Type
 * Response Code
 * Content Hash (SHA1)
-* -
-* -
-* -
+* Redirect URL
+* meta tags (not populated)
+* compressed length (not populated)
 * Offset in WARC file
 * WARC File Name
 
